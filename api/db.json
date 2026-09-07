@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn Next.js rendering",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Build Devboard",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Configure GitHub OAuth",
+      "completed": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
